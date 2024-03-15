@@ -11,11 +11,13 @@ for i in range(count):
     requests.get(url)
 
 
-
 📫 How to reach me karadenizelcin17@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammet-s%C3%B6nmez-8548b1246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammet Sönmez" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/elcinkaradeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elçin Karadeniz" height="30" width="40" /></a>
+
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
