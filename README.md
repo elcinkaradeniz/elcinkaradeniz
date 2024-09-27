@@ -34,3 +34,12 @@ Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalı�
 # 🛠️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical)
 
+
+
+# 🛠️ Languages and Tools
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git & GitHub
