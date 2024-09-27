@@ -4,7 +4,7 @@
 
   
 # 📫 İletişim Adreslerim
-- 📧 E-posta: karadenizelcin17@gmail.com
+- 📧 E-posta:karadenizelcin17@gmail.com
   
 -  LinkedIn:https://www.linkedin.com/in/elcinkaradeniz/
   
