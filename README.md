@@ -1,4 +1,27 @@
-Merhaba Ben Elçin  "Yazılım mühendisliği öğrencisiyim ve kod dünyasına olan tutkumla buradayım! Python, Java,JavaScript ,TypeScript  ve C++ gibi dillerde deneyimim var ve sürekli olarak yeni teknolojilere ve geliştirme yöntemlerine açığım. Açık kaynak projelerde katkı sağlamaktan keyif alıyorum ve sürekli öğrenmeye odaklanıyorum. Veri yapıları, algoritmalar ve yazılım mühendisliği prensipleri üzerine çalışıyorum. Toplulukta etkin bir şekilde yer almak ve yeni insanlarla tanışmak benim için önemli. Birlikte kod yazalım ve büyük projeler hayata geçirelim!"
+# Merhaba, Ben Elçin Karadeniz! 👋
 
+Kırklareli Üniversitesi Yazılım Mühendisliği öğrencisi.
+
+# 📫  İletişim Adresim
+- E-posta: karadenizelcin17@gmail.com
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.png)](https://www.linkedin.com/in/elcinkaradeniz/)
+- Web Sitesi:https://myportfoliositem.netlify.app/
+
+# 🛠️ Bildiğim Diller ve Teknolojiler:
+- 🖥️ HTML, CSS, JavaScript
+- ⚛️ React
+- 🐘 PHP
+- 🐍 Python
+- 🌐 Node.js, Express
+- 🗄️ MySQL, MongoDB
+
+
+# 💼 Hakkımda
+Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalışıyorum. React ve Node.js ile projeler geliştiriyorum. Açık kaynak dünyasına katkıda bulunmayı seviyorum!
+
+
+
+# 📈 GitHub İstatistikleri
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elcinkaradeniz&show_icons=true&theme=radical)
 
 
