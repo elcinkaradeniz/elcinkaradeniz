@@ -4,11 +4,12 @@
 
   
 # 📫 İletişim Adreslerim
-- E-posta: karadenizelcin17@gmail.com
+- 📧 E-posta: karadenizelcin17@gmail.com
+  
+- [LinkedIn](https://www.linkedin.com/in/elcinkaradeniz/)
+  
+- 🌐 Web Sitesi: [myportfoliositem](https://myportfoliositem.netlify.app/)
 
--[LinkedIn]:(https://www.linkedin.com/in/elcinkaradeniz/)
-
-- Web Sitesi: https://myportfoliositem.netlify.app/
 
 
 # 🛠️ Bildiğim Diller ve Teknolojiler:
