@@ -28,20 +28,23 @@
 Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalışıyorum. React ve Node.js ile projeler geliştiriyorum. Açık kaynak dünyasına katkıda bulunmayı seviyorum!
 
 
-
 # 🛠️ Languages and Tools
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript ,- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript &nbsp; 
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React &nbsp; 
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML &nbsp; 
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS &nbsp; 
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js &nbsp; 
 - ![Git](https://img.icons8.com/color/48/000000/git.png) Git & GitHub
 
+
+
+
+# 🛠️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical)
 
 
 
 # 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elcinkaradeniz&show_icons=true&theme=radical)
 
-# 🛠️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical)
 
