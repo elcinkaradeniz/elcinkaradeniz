@@ -16,7 +16,7 @@
 
 
 # 🛠️ Bildiğim Diller ve Teknolojiler:
-- 🖥️ HTML, CSS, JavaScript
+- 🖥️ HTML, CSS, JavaScript,TypeScript
 - ⚛️ React
 - 🐘 PHP
 - 🐍 Python
@@ -38,13 +38,16 @@ Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalı�
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
 
 
+# 🛠️ Most Used Languages & 📈 GitHub Stats
 
-# 🛠️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical) ;
+| Most Used Languages | GitHub Stats |
+|---------------------|--------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical) |   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elcinkaradeniz&show_icons=true&theme=radical) |
 
 
-# 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elcinkaradeniz&show_icons=true&theme=radical)
+# 🔥 Current Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elcinkaradeniz&theme=radical)
+
 
 
 
