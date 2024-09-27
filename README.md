@@ -40,11 +40,11 @@ Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalı�
 
 
 # 🛠️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical) ,
 # 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elcinkaradeniz&show_icons=true&theme=radical)
+
+
+
 
 
