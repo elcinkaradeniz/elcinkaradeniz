@@ -6,8 +6,8 @@
 # 📫 İletişim Adreslerim
 - 📧 E-posta: karadenizelcin17@gmail.com
   
-- [LinkedIn](https://www.linkedin.com/in/elcinkaradeniz/)
-  
+  - [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.png)](https://www.linkedin.com/in/elcinkaradeniz/) [LinkedIn](https://www.linkedin.com/in/elcinkaradeniz/)
+
 - 🌐 Web Sitesi: [myportfoliositem](https://myportfoliositem.netlify.app/)
 
 
