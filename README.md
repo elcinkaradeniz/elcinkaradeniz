@@ -33,12 +33,14 @@ Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalı�
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML &nbsp; 
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS &nbsp; 
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js &nbsp; 
-![Git](https://img.icons8.com/color/48/000000/git.png) Git & GitHub
+![Git](https://img.icons8.com/color/48/000000/git.png) Git & GitHub;
+![C](https://img.icons8.com/color/48/000000/c-programming.png) C &nbsp; 
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
 
 
 
 # 🛠️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical) ;
 
 
 # 📈 GitHub Stats
