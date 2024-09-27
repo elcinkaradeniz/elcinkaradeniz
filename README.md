@@ -6,7 +6,7 @@
 
 - 📧 E-posta: karadenizelcin17@gmail.com
   
-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />LinkledIn:(https://www.linkedin.com/in/elcinkaradeniz/)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />LinkledIn:(https://www.linkedin.com/in/elcinkaradeniz/)
   
 - 🌐 Web Sitesi: [myportfoliositem](https://myportfoliositem.netlify.app/)
 
