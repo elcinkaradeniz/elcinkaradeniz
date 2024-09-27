@@ -2,13 +2,13 @@
 
 - Kırklareli Üniversitesi Yazılım Mühendisi Öğrencisiyim.
 
-  
 # 📫 İletişim Adreslerim
-- 📧 E-posta:karadenizelcin17@gmail.com
+- 📧 E-posta: karadenizelcin17@gmail.com
   
--  LinkedIn:https://www.linkedin.com/in/elcinkaradeniz/
+- [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png) LinkedIn](https://www.linkedin.com/in/elcinkaradeniz/)
   
-- 🌐 Web Sitesi: [myportfoliositem](https://myportfoliositem.netlify.app/)
+- 🌐 Web Sitesi: myportfoliositem (https://myportfoliositem.netlify.app/)
+
 
 
 
