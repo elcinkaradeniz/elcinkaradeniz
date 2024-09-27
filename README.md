@@ -27,6 +27,8 @@
 # 💼 Hakkımda
 Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalışıyorum. React ve Node.js ile projeler geliştiriyorum. Açık kaynak dünyasına katkıda bulunmayı seviyorum!
 
+
+
 # 🛠️ Languages and Tools
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript &nbsp; 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) React &nbsp; 
@@ -38,11 +40,12 @@ Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalı�
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
 
 
+
 # 🛠️ Most Used Languages & 📈 GitHub Stats
 
 | Most Used Languages | GitHub Stats |
 |---------------------|--------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical) |   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elcinkaradeniz&show_icons=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcinkaradeniz&layout=compact&theme=radical)     |   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elcinkaradeniz&show_icons=true&theme=radical) |
 
 
 # 🔥 Current Streak
