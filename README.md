@@ -1,12 +1,12 @@
 # Merhaba, Ben Elçin Karadeniz! 👋
 
-Kırklareli Üniversitesi Yazılım Mühendisliği öğrencisiyim.
+- Kırklareli Üniversitesi Yazılım Mühendisi Öğrencisiyim.
 
 # 📫  İletişim Adresim
 - E-posta: karadenizelcin17@gmail.com
-- 
-- Linkedin: https://www.linkedin.com/in/elcinkaradeniz/
-- 
+  
+-[![LinkedIn](https://static.linkedin.com/scds/common/u/images/webbranding/logo/LI-Logo.png)](https://www.linkedin.com/in/elcinkaradeniz/)
+
 - Web Sitesi:https://myportfoliositem.netlify.app/
 
 # 🛠️ Bildiğim Diller ve Teknolojiler:
