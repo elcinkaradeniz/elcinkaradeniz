@@ -22,6 +22,7 @@
 - 🐍 Python
 - 🌐 Node.js, Express
 - 🗄️ MySQL, MongoDB
+- BI,ETL ve Dwh
 
 
 # 💼 Hakkımda
