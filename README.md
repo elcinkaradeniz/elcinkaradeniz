@@ -1,6 +1,6 @@
 # Merhaba, Ben Elçin Karadeniz! 👋
 
-- Kırklareli Üniversitesi Yazılım Mühendisi Öğrencisiyim.
+- Kırklareli Üniversitesi Yazılım Mühendisliği Bölümünden Mezun.
 
 # 📫 İletişim Adreslerim
 
