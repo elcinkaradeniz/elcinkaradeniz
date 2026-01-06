@@ -26,19 +26,41 @@
 
 
 # 💼 Hakkımda
-Yazılım geliştiriciyim ve ağırlıklı olarak web projeleri üzerine çalışıyorum. React ve Node.js ile projeler geliştiriyorum. Açık kaynak dünyasına katkıda bulunmayı seviyorum!
+Yazılım geliştirme alanında kendini sürekli geliştiren bir geliştiriciyim. 
+Web teknolojilerinin yanı sıra veri odaklı sistemlere ve kurumsal yazılımlara ilgi duyuyorum.
 
+SQL Server, veri modelleme ve temel DWH (Data Warehouse) mimarileri üzerine çalışıyorum. 
+ETL süreçlerini, veri temizleme ve raporlama mantığını öğrenerek kurumsal projelerde 
+katma değer üretmeyi hedefliyorum.
+
+Yeni mezun yetiştirme programları kapsamında öğrenmeye açık, disiplinli ve 
+uzun vadeli gelişime odaklıyım.
 
 
 # 🛠️ Languages and Tools
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript &nbsp; 
-![React](https://img.icons8.com/color/48/000000/react-native.png) React &nbsp; 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML &nbsp; 
-![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS &nbsp; 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js &nbsp; 
-![Git](https://img.icons8.com/color/48/000000/git.png) Git & GitHub;
-![C](https://img.icons8.com/color/48/000000/c-programming.png) C &nbsp; 
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
+# 🛠️ Languages and Tools
+
+### 💻 Programming & Query Languages
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript &nbsp;
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript &nbsp;
+![C](https://img.icons8.com/color/48/000000/c-programming.png) C &nbsp;
+![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL &nbsp;
+### 🌐 Web Technologies
+![React](https://img.icons8.com/color/48/000000/react-native.png) React &nbsp;
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML &nbsp;
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS &nbsp;
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js &nbsp;
+
+### 🗄️ Data & Database
+![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) Microsoft SQL Server &nbsp;
+![SSMS](https://img.icons8.com/color/48/000000/database.png) SSMS &nbsp;
+![DWH](https://img.icons8.com/color/48/000000/data-configuration.png) Data Warehouse (Basics) &nbsp;
+
+### ⚙️ Tools & DevOps
+![Git](https://img.icons8.com/color/48/000000/git.png) Git & GitHub &nbsp;
+![VirtualBox](https://img.icons8.com/color/48/000000/virtualbox.png) VirtualBox &nbsp;
+
+
 
 
 
