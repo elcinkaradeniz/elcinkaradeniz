@@ -38,7 +38,6 @@ uzun vadeli gelişime odaklıyım.
 
 
 # 🛠️ Languages and Tools
-# 🛠️ Languages and Tools
 
 ### 💻 Programming & Query Languages
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript &nbsp;
